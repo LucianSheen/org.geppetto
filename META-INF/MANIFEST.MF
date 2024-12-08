@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: org.geppetto
+Bundle-SymbolicName: org.geppetto
+Bundle-Version: 1.0.0.qualifier
+Application-Version: 1.0.0
+Application-SymbolicName: org.geppetto
+Application-Name: OpenWorm Simulation Engine
